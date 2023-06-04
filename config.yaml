@@ -1,4 +1,6 @@
-baseURL: "https://zaarzetlite.github.io/fs"
+#baseURL: "https://zaarzetlite.github.io/fs"
+
+baseURL: ""
 languageCode: en-us
 title: "New Hugo site"
 theme: "PaperMod"

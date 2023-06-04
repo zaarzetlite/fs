@@ -1,7 +1,7 @@
 ---
 title: "Home"
 date: 2023-06-04T13:11:35+05:30
-draft: true
+draft: false
 ---
 
 Hello world
