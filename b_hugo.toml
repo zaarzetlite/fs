@@ -1,0 +1,12 @@
+baseURL = ''
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme="PaperMod"
+
+menu= [
+    main=[
+        ["Home", "/"],
+        ["About", "/about/"],
+        ["Contact", "/contact/"],
+    ],
+]

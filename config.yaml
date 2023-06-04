@@ -1,0 +1,16 @@
+baseURL: "https://zaarzetlite.github.io"
+languageCode: en-us
+title: "New Hugo site"
+theme: "PaperMod"
+
+menu:
+  main:
+    - name: Home
+      pageRef: /home
+      weight: 10
+    - name: Products
+      pageRef: /products
+      weight: 20
+    - name: Services
+      pageRef: /services
+      weight: 30
