@@ -16,3 +16,7 @@ menu:
     - name: Services
       pageRef: /services
       weight: 30
+    - name: Drafts
+      pageRef: /drafts/default_draft
+      weight: 40
+
